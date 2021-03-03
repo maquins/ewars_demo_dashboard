@@ -1,6 +1,6 @@
 ---
 title: "kable output"
-author: "Maquinss"
+author: "Maquins"
 date: "8/16/2019"
 output:
   html_document:
